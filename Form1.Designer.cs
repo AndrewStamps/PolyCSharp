@@ -375,7 +375,7 @@
             lblPointSize.Name = "lblPointSize";
             lblPointSize.Size = new Size(181, 28);
             lblPointSize.TabIndex = 30;
-            lblPointSize.Text = "Point Sixe Px";
+            lblPointSize.Text = "Point Size Px";
             // 
             // lblHullLineThickness
             // 
